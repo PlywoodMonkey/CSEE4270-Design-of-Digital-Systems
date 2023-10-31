@@ -1,0 +1,13 @@
+NET "Clk" LOC = "B8";
+NET "Rst" LOC = "L3";
+NET "DivRst" LOC = "P11";
+NET "Enable" LOC = "K3";
+NET "UpDown" LOC = "B4";
+NET "A" LOC = "B2";
+NET "B" LOC = "A3";
+NET "C" LOC = "J3";
+NET "D" LOC = "B5";
+NET "E" LOC = "C6";
+NET "F" LOC = "B6";
+NET "G" LOC = "C5";
+NET "SegSel" LOC = "B7";
