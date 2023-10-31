@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/spb62034/Desktop/Lab2/Mux8_tb_isim_beh.exe" -prj "C:/Users/spb62034/Desktop/Lab2/Mux8_tb_beh.prj" "work.Mux8_tb" "work.glbl" 
